@@ -1,4 +1,6 @@
+*
+!/**/
+!*.*
 .vscode/launch.json
 .vscode/tasks.json
-HelloWorld/HelloWorld
-
+.vscode/settings.json
